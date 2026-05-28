@@ -1,3 +1,4 @@
+require('dotenv').config()
 const clienteController = require('./controllers/cliente.controller')
 
 const express = require('express')
